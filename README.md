@@ -51,16 +51,3 @@ The final model delivered a robust balance between wide-scale churn capture and 
 * **Data Integration:** Subscribers with active 3G/4G monthly data packs demonstrate significantly higher loyalty.
 * **Social Connectivity:** A drop in incoming calls from other networks indicates that the user is likely transitioning their primary contact number elsewhere.
 
----
-
-## Strategic Recommendations
-To mitigate churn among the identified at-risk subscribers, the following interventions are recommended:
-
-### 1. Usage-Based Early Warning System
-Implement automated triggers based on usage velocity. If a high-value customer’s usage drops by more than 15% over a 7-day rolling window compared to their baseline, the system should trigger an automated service health check or a "Loyalty Bridge" bonus offer.
-
-### 2. Data Stickiness Integration
-The data confirms that subscribers integrated into the data ecosystem are more resilient to churn. We recommend transitioning 2G-only users to 3G/4G data packs through free trials or tiered loyalty upgrades. Increasing the subscriber’s data dependency directly increases their switching costs.
-
-### 3. Proactive High-Value Concierge
-Use the model’s "Action List" to identify the top 5% of highest-risk revenue generators. These individuals should be assigned to a dedicated retention desk for personalized outbound calls rather than generic automated SMS. This high-touch approach ensures that the network’s most valuable assets feel recognized and valued during their decision-making window.
