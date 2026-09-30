@@ -4,7 +4,7 @@ Predicts which high-value prepaid subscribers will churn next month, explains wh
 
 **Stack:** Python (pandas, NumPy, scikit-learn, SHAP, Matplotlib, Seaborn), SQL (DuckDB), Jupyter
 
-**Author:** Samarjit Kabadi ([LinkedIn](https://www.linkedin.com/in/samarjith-kabadi)). Designed, built and documented end to end by me.
+**Author:** Samarjit Kabadi ([LinkedIn](https://www.linkedin.com/in/samarjith-kabadi)).
 
 ---
 
