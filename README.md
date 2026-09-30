@@ -25,7 +25,7 @@ To solve this, we employed a multi-stage data science pipeline designed for high
 
 ### 1. Data Engineering & Pre-processing
 * **Churn Definition:** Created a target variable based on usage (Total MOU = 0 and Data Volume = 0) in the churn month (Month 9).
-* **High-Value Filtering:** Isolated the top 20% of users based on average revenue from Months 6 and 7.
+* **High-Value Filtering:** Isolated the top 30% of users based on average revenue from Months 6 and 7.
 * **Feature Engineering:** Developed "Velocity" features to capture the rate of change in usage between the "Good Phase" (6 & 7) and the "Action Phase" (8).
 
 ### 2. Model Development
